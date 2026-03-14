@@ -5,7 +5,7 @@ A skill for AI coding agents (Claude Code, Cursor, Copilot, etc.) that provides 
 ## Install
 
 ```bash
-npx skills add https://github.com/enesberber/istqb-technical-test-analyst --skill istqb-technical-test-analyst
+npx skills add https://github.com/enesberber/istqb-tta-skill --skill istqb-technical-test-analyst
 ```
 
 
